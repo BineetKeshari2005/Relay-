@@ -1,0 +1,13 @@
+{
+  "record_id": "SR-2026-0814-017",
+  "asset_id": "ACX-420-017",
+  "date": "2026-08-14",
+  "issue": "Intermittent E17 high-pressure trip during peak afternoon heat",
+  "diagnosis": "Discharge pressure transducer PT-1 showed fluctuating reference voltage (+0.8V bias). Mechanical gauge read 172 PSI while sensor reported 214 PSI.",
+  "action_taken": "Replaced discharge pressure transducer PT-1. Recalibrated analog input channel on DDC board. Verified normal operation at 170 PSI.",
+  "parts_replaced": [
+    "PT-1-DISCH-TRANSDUCER-420",
+    "O-RING-SCHRADER-04"
+  ],
+  "technician_notes": "Unit 017 is installed adjacent to west wall exhaust vent. Condenser coils accumulate dust quickly here. Cleaned exterior coil face with low-pressure rinse. Warned facility manager that repeat high pressure in 2-3 months likely indicates coil fouling or exhaust recirc."
+}
